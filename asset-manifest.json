@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skowy-community-board-public/static/css/main.2bce32f7.css",
+    "main.js": "/skowy-community-board-public/static/js/main.0d2cc3ad.js",
+    "static/js/787.34a5221d.chunk.js": "/skowy-community-board-public/static/js/787.34a5221d.chunk.js",
+    "index.html": "/skowy-community-board-public/index.html",
+    "main.2bce32f7.css.map": "/skowy-community-board-public/static/css/main.2bce32f7.css.map",
+    "main.0d2cc3ad.js.map": "/skowy-community-board-public/static/js/main.0d2cc3ad.js.map",
+    "787.34a5221d.chunk.js.map": "/skowy-community-board-public/static/js/787.34a5221d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bce32f7.css",
+    "static/js/main.0d2cc3ad.js"
+  ]
+}
