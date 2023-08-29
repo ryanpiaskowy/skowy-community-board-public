@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/skowy-community-board-public/static/css/main.2bce32f7.css",
-    "main.js": "/skowy-community-board-public/static/js/main.bd76b899.js",
+    "main.css": "/skowy-community-board-public/static/css/main.b9630cb5.css",
+    "main.js": "/skowy-community-board-public/static/js/main.64783e56.js",
     "static/js/787.34a5221d.chunk.js": "/skowy-community-board-public/static/js/787.34a5221d.chunk.js",
     "index.html": "/skowy-community-board-public/index.html",
-    "main.2bce32f7.css.map": "/skowy-community-board-public/static/css/main.2bce32f7.css.map",
-    "main.bd76b899.js.map": "/skowy-community-board-public/static/js/main.bd76b899.js.map",
+    "main.b9630cb5.css.map": "/skowy-community-board-public/static/css/main.b9630cb5.css.map",
+    "main.64783e56.js.map": "/skowy-community-board-public/static/js/main.64783e56.js.map",
     "787.34a5221d.chunk.js.map": "/skowy-community-board-public/static/js/787.34a5221d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bce32f7.css",
-    "static/js/main.bd76b899.js"
+    "static/css/main.b9630cb5.css",
+    "static/js/main.64783e56.js"
   ]
 }
