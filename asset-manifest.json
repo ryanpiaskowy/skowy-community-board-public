@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/skowy-community-board-public/static/css/main.ac58cee5.css",
-    "main.js": "/skowy-community-board-public/static/js/main.23bd20c7.js",
+    "main.js": "/skowy-community-board-public/static/js/main.86b03ec5.js",
     "static/js/787.34a5221d.chunk.js": "/skowy-community-board-public/static/js/787.34a5221d.chunk.js",
     "index.html": "/skowy-community-board-public/index.html",
     "main.ac58cee5.css.map": "/skowy-community-board-public/static/css/main.ac58cee5.css.map",
-    "main.23bd20c7.js.map": "/skowy-community-board-public/static/js/main.23bd20c7.js.map",
+    "main.86b03ec5.js.map": "/skowy-community-board-public/static/js/main.86b03ec5.js.map",
     "787.34a5221d.chunk.js.map": "/skowy-community-board-public/static/js/787.34a5221d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac58cee5.css",
-    "static/js/main.23bd20c7.js"
+    "static/js/main.86b03ec5.js"
   ]
 }
